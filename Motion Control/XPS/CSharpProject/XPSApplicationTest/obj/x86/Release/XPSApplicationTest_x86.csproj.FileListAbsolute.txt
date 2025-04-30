@@ -1,0 +1,9 @@
+C:\PVCS\IHM_Visual_Studio_NET\Motion Control Interfaces\XPS_Unified\Distribution\x86\XPSApplicationTest.exe.config
+C:\PVCS\IHM_Visual_Studio_NET\Motion Control Interfaces\XPS_Unified\Distribution\x86\XPSApplicationTest.exe
+C:\PVCS\IHM_Visual_Studio_NET\Motion Control Interfaces\XPS_Unified\Sources\XPSApplicationTest\XPSApplicationTest\obj\x86\Release\XPSApplicationTest.FormApplicationXPS.resources
+C:\PVCS\IHM_Visual_Studio_NET\Motion Control Interfaces\XPS_Unified\Sources\XPSApplicationTest\XPSApplicationTest\obj\x86\Release\XPSApplicationTest.Properties.Resources.resources
+C:\PVCS\IHM_Visual_Studio_NET\Motion Control Interfaces\XPS_Unified\Sources\XPSApplicationTest\XPSApplicationTest\obj\x86\Release\XPSApplicationTest_x86.csproj.GenerateResource.cache
+C:\PVCS\IHM_Visual_Studio_NET\Motion Control Interfaces\XPS_Unified\Sources\XPSApplicationTest\XPSApplicationTest\obj\x86\Release\XPSApplicationTest_x86.csproj.CoreCompileInputs.cache
+C:\PVCS\IHM_Visual_Studio_NET\Motion Control Interfaces\XPS_Unified\Sources\XPSApplicationTest\XPSApplicationTest\obj\x86\Release\XPSApplicationTest.exe
+C:\PVCS\IHM_Visual_Studio_NET\Motion Control Interfaces\XPS_Unified\Sources\XPSApplicationTest\XPSApplicationTest\obj\x86\Release\XPSApplicationTest_x86.csproj.AssemblyReference.cache
+C:\PVCS\IHM_Visual_Studio_NET\Motion Control Interfaces\XPS_Unified\Sources\XPSApplicationTest\XPSApplicationTest\obj\x86\Release\XPSApplicationTest_x86.csproj.CopyComplete
